@@ -1,3 +1,27 @@
+# Blog Bifrost
+
+## Update to latest dotclear version
+
+```shell
+git clone git@github.com:clemlatz/blog-bifrost.git
+git remote add upstream https://github.com/dotclear/dotclear.git
+git rebase {version}
+```
+
+## Run locally
+
+Run blog
+
+```shell
+php -S localhost:8080 -t public
+```
+
+Run admin
+
+```shell
+php -S localhost:8081 -t admin
+```
+
 # README
 
 [![Crowdin](https://badges.crowdin.net/e/d5f0441bf4f73af0177d34047b5b8482/localized.svg)](https://dotclear.crowdin.com/dotclear)
