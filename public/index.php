@@ -11,7 +11,7 @@ if (isset($_SERVER['DC_BLOG_ID'])) {
     define('DC_BLOG_ID', $_SERVER['REDIRECT_DC_BLOG_ID']);
 } else {
     # Define your blog here
-    define('DC_BLOG_ID', 'default');
+    define('DC_BLOG_ID', 'bifrost');
 }
 
 require __DIR__ . '/../inc/public/prepend.php';
