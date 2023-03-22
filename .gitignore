@@ -1,7 +1,6 @@
 /cache
 /inc/config.php
 \.htaccess
-/public
 /build-tools/ckeditor/ckbuilder.jar
 /var
 
