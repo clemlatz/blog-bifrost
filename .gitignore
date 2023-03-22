@@ -3,6 +3,7 @@
 \.htaccess
 /build-tools/ckeditor/ckbuilder.jar
 /var
+/public/themes/bifrost
 
 # composer stuff
 /vendor
