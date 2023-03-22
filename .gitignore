@@ -4,6 +4,7 @@
 /build-tools/ckeditor/ckbuilder.jar
 /var
 /public/themes/bifrost
+/.idea
 
 # composer stuff
 /vendor
