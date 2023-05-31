@@ -3,7 +3,6 @@
 \.htaccess
 /build-tools/ckeditor/ckbuilder.jar
 /var
-/public/themes/bifrost
 /.idea
 
 # composer stuff
@@ -11,3 +10,9 @@
 /composer.phar
 /doxygen
 /coverage
+
+# bifrost
+public/media
+public/themes/bifrost
+public/themes/responsive
+
